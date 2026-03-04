@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Build folders
+bin/
+obj/
+
+# Outros arquivos temporários
+*.dbmdl
+*.pdb
+*.tmp
+*.bak
+*.backup
+*.DS_Store
