@@ -20,6 +20,9 @@ namespace AlunosApi
                 )
             );
 
+
+
+
             builder.Services.AddScoped<IAlunoService, AlunosService>();
 
             // Swagger
